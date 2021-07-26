@@ -44,4 +44,4 @@ Danil Sergeev - [telegram](https://t.me/tripplicate) - @tripplicate
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [repo-size-shield]: https://img.shields.io/github/repo-size/tripplicate/OxiClips?color=%409774&style=for-the-badge
-[repo-activity]: https://img.shields.io/github/commit-activity/y/tripplicate/OxiClips?color=%409774&style=for-the-badge
+[repo-activity]: https://img.shields.io/github/commit-activity/y/tripplicate/Oxiclips?color=%409774&style=for-the-badge
