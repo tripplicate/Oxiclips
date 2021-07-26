@@ -5,7 +5,7 @@
   <h3 align="center">OxiClips</h3>
 
   <p align="center">
-    <a href="https://tripplicate.github.io/Pagination/">See work</a>
+    <a href="https://tripplicate.github.io/Oxiclips/">See work</a>
     ·
     <a href="https://www.figma.com/file/AmCnFhGS4aD0l0o49znWKF/OxiClip?node-id=0%3A1">Figma Project</a>
   </p>
