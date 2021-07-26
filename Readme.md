@@ -21,7 +21,7 @@
     <li>
       <a href="#technologies">Technologies</a>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#author">Author</a></li>
   </ol>
 </details>
 
@@ -45,4 +45,3 @@ Danil Sergeev - [telegram](https://t.me/tripplicate) - @tripplicate
 
 [repo-size-shield]: https://img.shields.io/github/repo-size/tripplicate/OxiClips?color=%409774&style=for-the-badge
 [repo-activity]: https://img.shields.io/github/commit-activity/y/tripplicate/OxiClips?color=%409774&style=for-the-badge
-[]
