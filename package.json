@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "This is my latest project",
   "main": "index.js",
-  "keywords": [],
-  "author": "Danil Sergeev",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
